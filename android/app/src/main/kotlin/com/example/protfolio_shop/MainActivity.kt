@@ -1,0 +1,6 @@
+package com.codvets.portfolio
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
